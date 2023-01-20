@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akif Akkaya</h1>
 <h3 align="center">Mobile and Web Developer from Istanbul</h3>
-<p align="center"><a href="mailto:akifakkayaa@gmail.com">akifakkayaa@gmail.com</a> - <a href="https://akifakkaya.com">akifakkaya.com</a></p>
+<p align="center"><a target="_blank" href="mailto:akifakkayaa@gmail.com">akifakkayaa@gmail.com</a> - <a target="_blank" href="https://akifakkaya.com">akifakkaya.com</a></p>
 
 ----
 
