@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akif Akkaya</h1>
-<h3 align="center">Mobile and Web Developer From Istanbul</h3>
+<h3 align="center">Mobile and Web Developer from Istanbul</h3>
 
 ----
 
