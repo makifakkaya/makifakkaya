@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akif Akkaya</h1>
 <h3 align="center">Mobile and Web Developer From Istanbul</h3>
 
+----
+
 - 🌱 I’m currently learning **Switf & SwiftUI**
 
 - 👨‍💻 All of my projects are available at [https://akifakkaya.com](https://akifakkaya.com)
